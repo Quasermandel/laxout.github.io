@@ -366,7 +366,7 @@ label {
 
 input[type="submit"] {
   padding: 10px 20px;
-  background-color: #c09c41;
+  background-color: #3266ae;
   color: white;
   font-weight: 600;
   border: none;
@@ -381,7 +381,7 @@ textarea {
 /*FOOTER*/
 footer {
   height: 100px;
-  background-color: #c09c41;
+  background-color: #3266ae;
   display: flex;
   justify-content: center;
   align-items: center;
